@@ -1,4 +1,4 @@
-En cada archivo de texto se encuentran listas donde hay parámetros pertinentes de los Estallidos de Radio (ER) cuyo tipo es el nombre de cada archivo.
+En cada archivo de texto se encuentran listas donde hay parámetros (tipo, clase, velocidad, duración, lugar de origen, región activa, tiempo e instrumento de detección) pertinentes de los Estallidos de Radio (ER) cuyo tipo es el nombre de cada archivo.
 
 
 En un archivo de Jupyter (Eventos_ER-III.ipynb) se encuentra el cálculo de la velocidad de los estallidos de radio tipo II (ER-II) según un método dado por Gopalswamy (2000).
