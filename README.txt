@@ -1,12 +1,5 @@
-En cada archivo de texto se encuentran listas donde hay parámetros (tipo, clase, velocidad, duración, lugar de origen, región activa, tiempo e instrumento de detección) pertinentes de los Estallidos de Radio (ER) cuyo tipo es el nombre de cada archivo.
+In each text file, there are lists containing relevant parameters (type, class, velocity, duration, place of origin, active region, time, and detection instrument) of Radio Bursts (RB), where the type corresponds to the name of each file.
 
+In a Jupyter file (Eventos_ER-III.ipynb), the calculation of the velocity of type II solar radio bursts (SRB-II) is found, following the method given by Gopalswamy (2000), in Geophysical Monograph Series. In another Jupyter file, events of type III are plotted.
 
-En un archivo de Jupyter (Eventos_ER-III.ipynb) se encuentra el cálculo de la velocidad de los estallidos de radio tipo II (ER-II) según un método dado por Gopalswamy (2000).
-
-En otro archivo de Jupyter se grafican los eventos tipo III (ER-III) observados.
-
-
-
-Los datos de los Estallidos de Radio fueron obtenidos de www.e-callisto.org
-Los de las fulguraciones asociadas se obtuvieron de https://solarmonitor.org/
-Los de las Eyecciones de Masa Coronal de https://cdaw.gsfc.nasa.gov/CME_list/
+The data used was obtained from www.e-callisto.org. Those associated with flares were obtained from https://solarmonitor.org/. Data for Coronal Mass Ejections from https://cdaw.gsfc.nasa.gov/CME_list/.
